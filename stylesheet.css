@@ -1,0 +1,31 @@
+<head>
+    <link rel="stylesheet" href="style.css">
+    <title>99 nights in the forest</title>
+</head>
+/* Change the background of the entire visible page */
+body {
+    background-color: #d1d1d1; /* Very light grey */
+}
+
+/* Style for all paragraphs */
+  
+        h2 {
+            color: rgb(64, 6, 6);
+        }  
+        
+        body {
+            background-color: rgb(166, 124, 0);
+        }
+
+p {
+    color: black;
+    font-size: 16px;
+    font-family: 'source code pro', serif;
+}
+
+/* Style for the main heading */
+h1 {
+    text-align: center; /* Puts the heading in the middle */
+    border: 2px light blue; /* Adds an orange border around the heading */
+    padding: 10px; /* Adds space inside the border 
+color: light blue;
